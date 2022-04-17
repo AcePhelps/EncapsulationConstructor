@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="29" passed="28" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-16T17:53:34 PDT" name="Master test suite" finished-at="2022-04-16T17:55:41 PDT" duration-ms="127543">
+    <groups>
+    </groups>
+    <test started-at="2022-04-16T17:53:34 PDT" name="Selenium test" finished-at="2022-04-16T17:55:41 PDT" duration-ms="127543">
+      <class name="pageObjectTest.LoginTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:34 PDT" name="startUp" finished-at="2022-04-16T17:53:35 PDT" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_correctCredentials_loggedToApp3()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:35 PDT" name="loginTest_correctCredentials_loggedToApp3" finished-at="2022-04-16T17:53:36 PDT" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_correctCredentials_loggedToApp3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:36 PDT" name="finish" finished-at="2022-04-16T17:53:36 PDT" duration-ms="73" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_correctCredentials_loggedToApp3 status=SUCCESS method=LoginTest.loginTest_correctCredentials_loggedToApp3()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:36 PDT" name="startUp" finished-at="2022-04-16T17:53:37 PDT" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_IncorrectCredentials_errorRedFrame3()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:37 PDT" name="loginTest_IncorrectCredentials_errorRedFrame3" finished-at="2022-04-16T17:53:38 PDT" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_IncorrectCredentials_errorRedFrame3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:38 PDT" name="finish" finished-at="2022-04-16T17:53:38 PDT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_IncorrectCredentials_errorRedFrame3 status=SUCCESS method=LoginTest.loginTest_IncorrectCredentials_errorRedFrame3()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:38 PDT" name="startUp" finished-at="2022-04-16T17:53:39 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_correctCredentials_loggedToApp2()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:39 PDT" name="loginTest_correctCredentials_loggedToApp2" finished-at="2022-04-16T17:53:40 PDT" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_correctCredentials_loggedToApp2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:40 PDT" name="finish" finished-at="2022-04-16T17:53:40 PDT" duration-ms="70" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_correctCredentials_loggedToApp2 status=SUCCESS method=LoginTest.loginTest_correctCredentials_loggedToApp2()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:40 PDT" name="startUp" finished-at="2022-04-16T17:53:41 PDT" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_IncorrectCredentials_errorRedFrame2()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:41 PDT" name="loginTest_IncorrectCredentials_errorRedFrame2" finished-at="2022-04-16T17:53:42 PDT" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_IncorrectCredentials_errorRedFrame2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:42 PDT" name="finish" finished-at="2022-04-16T17:53:43 PDT" duration-ms="85" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_IncorrectCredentials_errorRedFrame2 status=SUCCESS method=LoginTest.loginTest_IncorrectCredentials_errorRedFrame2()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:43 PDT" name="startUp" finished-at="2022-04-16T17:53:43 PDT" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_correctCredentials_loggedToApp1()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:43 PDT" name="loginTest_correctCredentials_loggedToApp1" finished-at="2022-04-16T17:53:45 PDT" duration-ms="1851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_correctCredentials_loggedToApp1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:45 PDT" name="finish" finished-at="2022-04-16T17:53:45 PDT" duration-ms="61" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_correctCredentials_loggedToApp1 status=SUCCESS method=LoginTest.loginTest_correctCredentials_loggedToApp1()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:45 PDT" name="startUp" finished-at="2022-04-16T17:53:46 PDT" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_IncorrectCredentials_errorRedFrame1()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:46 PDT" name="loginTest_IncorrectCredentials_errorRedFrame1" finished-at="2022-04-16T17:53:47 PDT" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_IncorrectCredentials_errorRedFrame1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:47 PDT" name="finish" finished-at="2022-04-16T17:53:47 PDT" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_IncorrectCredentials_errorRedFrame1 status=SUCCESS method=LoginTest.loginTest_IncorrectCredentials_errorRedFrame1()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:47 PDT" name="startUp" finished-at="2022-04-16T17:53:48 PDT" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_correctCredentials_loggedToApp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:48 PDT" name="loginTest_correctCredentials_loggedToApp" finished-at="2022-04-16T17:53:53 PDT" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_correctCredentials_loggedToApp -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:53 PDT" name="finish" finished-at="2022-04-16T17:53:53 PDT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_correctCredentials_loggedToApp status=SUCCESS method=LoginTest.loginTest_correctCredentials_loggedToApp()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:53 PDT" name="startUp" finished-at="2022-04-16T17:53:53 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest_IncorrectCredentials_errorRedFrame()[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:53:53 PDT" name="loginTest_IncorrectCredentials_errorRedFrame" finished-at="2022-04-16T17:54:04 PDT" duration-ms="10897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_IncorrectCredentials_errorRedFrame -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.LoginTest@36060e]" started-at="2022-04-16T17:54:04 PDT" name="finish" finished-at="2022-04-16T17:54:04 PDT" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest_IncorrectCredentials_errorRedFrame status=SUCCESS method=LoginTest.loginTest_IncorrectCredentials_errorRedFrame()[pri:0, instance:pageObjectTest.LoginTest@36060e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- pageObjectTest.LoginTest -->
+      <class name="pageObjectTest.loginFactoryTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:04 PDT" name="startUp" finished-at="2022-04-16T17:54:05 PDT" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_incorrectLogin_loggedToApp1()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:05 PDT" name="loginTestFactory_incorrectLogin_loggedToApp1" finished-at="2022-04-16T17:54:07 PDT" duration-ms="2146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_incorrectLogin_loggedToApp1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:07 PDT" name="finish" finished-at="2022-04-16T17:54:07 PDT" duration-ms="60" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_incorrectLogin_loggedToApp1 status=SUCCESS method=loginFactoryTest.loginTestFactory_incorrectLogin_loggedToApp1()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:07 PDT" name="startUp" finished-at="2022-04-16T17:54:08 PDT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_correctLogin_loggedToApp1()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:08 PDT" name="loginTestFactory_correctLogin_loggedToApp1" finished-at="2022-04-16T17:54:09 PDT" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_correctLogin_loggedToApp1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:09 PDT" name="finish" finished-at="2022-04-16T17:54:09 PDT" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_correctLogin_loggedToApp1 status=SUCCESS method=loginFactoryTest.loginTestFactory_correctLogin_loggedToApp1()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:09 PDT" name="startUp" finished-at="2022-04-16T17:54:10 PDT" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_incorrectLogin_loggedToApp3()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:10 PDT" name="loginTestFactory_incorrectLogin_loggedToApp3" finished-at="2022-04-16T17:54:12 PDT" duration-ms="1938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_incorrectLogin_loggedToApp3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:12 PDT" name="finish" finished-at="2022-04-16T17:54:12 PDT" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_incorrectLogin_loggedToApp3 status=SUCCESS method=loginFactoryTest.loginTestFactory_incorrectLogin_loggedToApp3()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:12 PDT" name="startUp" finished-at="2022-04-16T17:54:12 PDT" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_correctLogin_loggedToApp3()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:12 PDT" name="loginTestFactory_correctLogin_loggedToApp3" finished-at="2022-04-16T17:54:17 PDT" duration-ms="5100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_correctLogin_loggedToApp3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:17 PDT" name="finish" finished-at="2022-04-16T17:54:18 PDT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_correctLogin_loggedToApp3 status=SUCCESS method=loginFactoryTest.loginTestFactory_correctLogin_loggedToApp3()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:18 PDT" name="startUp" finished-at="2022-04-16T17:54:18 PDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_incorrectLogin_loggedToApp2()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:18 PDT" name="loginTestFactory_incorrectLogin_loggedToApp2" finished-at="2022-04-16T17:54:26 PDT" duration-ms="7472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_incorrectLogin_loggedToApp2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:26 PDT" name="finish" finished-at="2022-04-16T17:54:26 PDT" duration-ms="61" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_incorrectLogin_loggedToApp2 status=SUCCESS method=loginFactoryTest.loginTestFactory_incorrectLogin_loggedToApp2()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:26 PDT" name="startUp" finished-at="2022-04-16T17:54:26 PDT" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_correctLogin_loggedToApp2()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:26 PDT" name="loginTestFactory_correctLogin_loggedToApp2" finished-at="2022-04-16T17:54:32 PDT" duration-ms="5414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_correctLogin_loggedToApp2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:32 PDT" name="finish" finished-at="2022-04-16T17:54:32 PDT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_correctLogin_loggedToApp2 status=SUCCESS method=loginFactoryTest.loginTestFactory_correctLogin_loggedToApp2()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:32 PDT" name="startUp" finished-at="2022-04-16T17:54:32 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_incorrectLogin_loggedToApp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:32 PDT" name="loginTestFactory_incorrectLogin_loggedToApp" finished-at="2022-04-16T17:54:35 PDT" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_incorrectLogin_loggedToApp -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:35 PDT" name="finish" finished-at="2022-04-16T17:54:35 PDT" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_incorrectLogin_loggedToApp status=SUCCESS method=loginFactoryTest.loginTestFactory_incorrectLogin_loggedToApp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:35 PDT" name="startUp" finished-at="2022-04-16T17:54:36 PDT" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTestFactory_correctLogin_loggedToApp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:36 PDT" name="loginTestFactory_correctLogin_loggedToApp" finished-at="2022-04-16T17:54:37 PDT" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestFactory_correctLogin_loggedToApp -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32]" started-at="2022-04-16T17:54:37 PDT" name="finish" finished-at="2022-04-16T17:54:37 PDT" duration-ms="56" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTestFactory_correctLogin_loggedToApp status=SUCCESS method=loginFactoryTest.loginTestFactory_correctLogin_loggedToApp()[pri:0, instance:pageObjectTest.loginFactoryTest@70f02c32] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- pageObjectTest.loginFactoryTest -->
+      <class name="pageObjectTest.PlayListTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:37 PDT" name="startUp" finished-at="2022-04-16T17:54:38 PDT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playList_createPlaylist_playlistCreated()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:38 PDT" name="playList_createPlaylist_playlistCreated" finished-at="2022-04-16T17:54:40 PDT" duration-ms="2455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playList_createPlaylist_playlistCreated -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:40 PDT" name="finish" finished-at="2022-04-16T17:54:40 PDT" duration-ms="77" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playList_createPlaylist_playlistCreated status=SUCCESS method=PlayListTest.playList_createPlaylist_playlistCreated()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:40 PDT" name="startUp" finished-at="2022-04-16T17:54:41 PDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="addSongToPlaylist_chooseSong_songSuccessefulyAdded()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:41 PDT" name="addSongToPlaylist_chooseSong_songSuccessefulyAdded" finished-at="2022-04-16T17:54:45 PDT" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSongToPlaylist_chooseSong_songSuccessefulyAdded -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:45 PDT" name="finish" finished-at="2022-04-16T17:54:45 PDT" duration-ms="61" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSongToPlaylist_chooseSong_songSuccessefulyAdded status=SUCCESS method=PlayListTest.addSongToPlaylist_chooseSong_songSuccessefulyAdded()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:45 PDT" name="startUp" finished-at="2022-04-16T17:54:46 PDT" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playlistTest_renamePlaylist_PlaylistRenaimed()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:46 PDT" name="playlistTest_renamePlaylist_PlaylistRenaimed" finished-at="2022-04-16T17:54:50 PDT" duration-ms="4524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlistTest_renamePlaylist_PlaylistRenaimed -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:50 PDT" name="finish" finished-at="2022-04-16T17:54:50 PDT" duration-ms="56" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playlistTest_renamePlaylist_PlaylistRenaimed status=SUCCESS method=PlayListTest.playlistTest_renamePlaylist_PlaylistRenaimed()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:50 PDT" name="startUp" finished-at="2022-04-16T17:54:51 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playList_createPlaylist_playlistCreated1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:54:51 PDT" name="playList_createPlaylist_playlistCreated1" finished-at="2022-04-16T17:55:03 PDT" duration-ms="12654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playList_createPlaylist_playlistCreated1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:03 PDT" name="finish" finished-at="2022-04-16T17:55:04 PDT" duration-ms="69" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playList_createPlaylist_playlistCreated1 status=SUCCESS method=PlayListTest.playList_createPlaylist_playlistCreated1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:04 PDT" name="startUp" finished-at="2022-04-16T17:55:04 PDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="addSongToPlaylist_chooseSong_songSuccessefulyAdded1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:04 PDT" name="addSongToPlaylist_chooseSong_songSuccessefulyAdded1" finished-at="2022-04-16T17:55:08 PDT" duration-ms="3700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSongToPlaylist_chooseSong_songSuccessefulyAdded1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:08 PDT" name="finish" finished-at="2022-04-16T17:55:08 PDT" duration-ms="61" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSongToPlaylist_chooseSong_songSuccessefulyAdded1 status=SUCCESS method=PlayListTest.addSongToPlaylist_chooseSong_songSuccessefulyAdded1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:08 PDT" name="startUp" finished-at="2022-04-16T17:55:08 PDT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playlistTest_renamePlaylist_PlaylistRenaimed1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:08 PDT" name="playlistTest_renamePlaylist_PlaylistRenaimed1" finished-at="2022-04-16T17:55:12 PDT" duration-ms="4020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlistTest_renamePlaylist_PlaylistRenaimed1 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:12 PDT" name="finish" finished-at="2022-04-16T17:55:13 PDT" duration-ms="70" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playlistTest_renamePlaylist_PlaylistRenaimed1 status=SUCCESS method=PlayListTest.playlistTest_renamePlaylist_PlaylistRenaimed1()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:13 PDT" name="startUp" finished-at="2022-04-16T17:55:13 PDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playList_createPlaylist_playlistCreated2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:13 PDT" name="playList_createPlaylist_playlistCreated2" finished-at="2022-04-16T17:55:17 PDT" duration-ms="3485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playList_createPlaylist_playlistCreated2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:17 PDT" name="finish" finished-at="2022-04-16T17:55:17 PDT" duration-ms="61" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playList_createPlaylist_playlistCreated2 status=SUCCESS method=PlayListTest.playList_createPlaylist_playlistCreated2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:17 PDT" name="startUp" finished-at="2022-04-16T17:55:17 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="addSongToPlaylist_chooseSong_songSuccessefulyAdded2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:17 PDT" name="addSongToPlaylist_chooseSong_songSuccessefulyAdded2" finished-at="2022-04-16T17:55:25 PDT" duration-ms="7740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSongToPlaylist_chooseSong_songSuccessefulyAdded2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:25 PDT" name="finish" finished-at="2022-04-16T17:55:25 PDT" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSongToPlaylist_chooseSong_songSuccessefulyAdded2 status=SUCCESS method=PlayListTest.addSongToPlaylist_chooseSong_songSuccessefulyAdded2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:25 PDT" name="startUp" finished-at="2022-04-16T17:55:26 PDT" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playlistTest_renamePlaylist_PlaylistRenaimed2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:26 PDT" name="playlistTest_renamePlaylist_PlaylistRenaimed2" finished-at="2022-04-16T17:55:30 PDT" duration-ms="4637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlistTest_renamePlaylist_PlaylistRenaimed2 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:30 PDT" name="finish" finished-at="2022-04-16T17:55:30 PDT" duration-ms="58" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playlistTest_renamePlaylist_PlaylistRenaimed2 status=SUCCESS method=PlayListTest.playlistTest_renamePlaylist_PlaylistRenaimed2()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:30 PDT" name="startUp" finished-at="2022-04-16T17:55:31 PDT" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playList_createPlaylist_playlistCreated3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:31 PDT" name="playList_createPlaylist_playlistCreated3" finished-at="2022-04-16T17:55:33 PDT" duration-ms="2573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playList_createPlaylist_playlistCreated3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:33 PDT" name="finish" finished-at="2022-04-16T17:55:33 PDT" duration-ms="55" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playList_createPlaylist_playlistCreated3 status=SUCCESS method=PlayListTest.playList_createPlaylist_playlistCreated3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:33 PDT" name="startUp" finished-at="2022-04-16T17:55:34 PDT" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="addSongToPlaylist_chooseSong_songSuccessefulyAdded3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:34 PDT" name="addSongToPlaylist_chooseSong_songSuccessefulyAdded3" finished-at="2022-04-16T17:55:37 PDT" duration-ms="3283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSongToPlaylist_chooseSong_songSuccessefulyAdded3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:37 PDT" name="finish" finished-at="2022-04-16T17:55:37 PDT" duration-ms="59" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSongToPlaylist_chooseSong_songSuccessefulyAdded3 status=SUCCESS method=PlayListTest.addSongToPlaylist_chooseSong_songSuccessefulyAdded3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:37 PDT" name="startUp" finished-at="2022-04-16T17:55:38 PDT" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="playlistTest_renamePlaylist_PlaylistRenaimed3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:38 PDT" name="playlistTest_renamePlaylist_PlaylistRenaimed3" finished-at="2022-04-16T17:55:41 PDT" duration-ms="3468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlistTest_renamePlaylist_PlaylistRenaimed3 -->
+        <test-method is-config="true" signature="finish(org.testng.ITestResult)[pri:0, instance:pageObjectTest.PlayListTest@62010f5c]" started-at="2022-04-16T17:55:41 PDT" name="finish" finished-at="2022-04-16T17:55:41 PDT" duration-ms="68" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=playlistTest_renamePlaylist_PlaylistRenaimed3 status=SUCCESS method=PlayListTest.playlistTest_renamePlaylist_PlaylistRenaimed3()[pri:0, instance:pageObjectTest.PlayListTest@62010f5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- pageObjectTest.PlayListTest -->
+    </test> <!-- Selenium test -->
+  </suite> <!-- Master test suite -->
+</testng-results>

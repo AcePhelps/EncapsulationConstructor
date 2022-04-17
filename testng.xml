@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master test suite">
+    <listeners>
+        <listener class-name="listeners.Listeners"></listener>
+    </listeners>
+    <test name="Selenium test">
+        <classes>
+            <class name="pageObjectTest.LoginTest">
+                <methods>
+                    <include name="loginTest_correctCredentials_loggedToApp3"/>
+                    <include name="loginTest_IncorrectCredentials_errorRedFrame3"/>
+                    <include name="loginTest_correctCredentials_loggedToApp2"/>
+                    <include name="loginTest_IncorrectCredentials_errorRedFrame2"/>
+                    <include name="loginTest_correctCredentials_loggedToApp1"/>
+                    <include name="loginTest_IncorrectCredentials_errorRedFrame1"/>
+                    <include name="loginTest_correctCredentials_loggedToApp"/>
+                    <include name="loginTest_IncorrectCredentials_errorRedFrame"/>
+                </methods>
+            </class>
+<class name="pageObjectTest.loginFactoryTest">
+    <methods>
+        <include name="loginTestFactory_incorrectLogin_loggedToApp1"/>
+        <include name="loginTestFactory_correctLogin_loggedToApp1"/>
+        <include name="loginTestFactory_incorrectLogin_loggedToApp3"/>
+        <include name="loginTestFactory_correctLogin_loggedToApp3"/>
+        <include name="loginTestFactory_incorrectLogin_loggedToApp2"/>
+        <include name="loginTestFactory_correctLogin_loggedToApp2"/>
+        <include name="loginTestFactory_incorrectLogin_loggedToApp"/>
+        <include name="loginTestFactory_correctLogin_loggedToApp"/>
+    </methods>
+</class>
+            <class name="pageObjectTest.PlayListTest">
+                <methods>
+                    <include name="playList_createPlaylist_playlistCreated"/>
+                    <include name="addSongToPlaylist_chooseSong_songSuccessefulyAdded"/>
+                    <include name="playlistTest_renamePlaylist_PlaylistRenaimed"/>
+                    <include name="playList_createPlaylist_playlistCreated1"/>
+                    <include name="addSongToPlaylist_chooseSong_songSuccessefulyAdded1"/>
+                    <include name="playlistTest_renamePlaylist_PlaylistRenaimed1"/>
+                    <include name="playList_createPlaylist_playlistCreated2"/>
+                    <include name="addSongToPlaylist_chooseSong_songSuccessefulyAdded2"/>
+                    <include name="playlistTest_renamePlaylist_PlaylistRenaimed2"/>
+                    <include name="playList_createPlaylist_playlistCreated3"/>
+                    <include name="addSongToPlaylist_chooseSong_songSuccessefulyAdded3"/>
+                    <include name="playlistTest_renamePlaylist_PlaylistRenaimed3"/>
+                    <include name="flakyTest"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

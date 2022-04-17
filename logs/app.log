@@ -1,0 +1,808 @@
+2022-04-15 23:51:18,769 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:18,829 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:18,879 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-15 23:51:18,917 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:20,903 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:20,947 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:20,986 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-15 23:51:21,016 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:23,021 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:23,065 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:23,104 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-15 23:51:23,133 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:25,003 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:25,046 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:25,083 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-15 23:51:25,111 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:27,670 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:27,716 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:27,752 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:51:27,781 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:30,806 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:30,847 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:30,882 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:51:30,909 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:32,670 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:32,712 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:32,748 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:51:32,775 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:51:34,612 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:51:34,653 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:51:34,688 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:51:34,715 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:53:00,916 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:53:00,965 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:53:01,004 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:53:01,034 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:55:35,935 INFO p.LoginPage [main] Logging to App Method
+2022-04-15 23:55:35,986 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-15 23:55:36,025 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-15 23:55:36,056 WARN p.LoginPage [main] Button clicked
+2022-04-15 23:55:36,070 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59e7c5b8db13e8f647b7b9e7afd8ae9c
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-15 23:55:36,283 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59e7c5b8db13e8f647b7b9e7afd8ae9c
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 00:12:11,135 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:11,191 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:11,231 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 00:12:11,265 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:13,771 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:13,816 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:13,855 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 00:12:13,887 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:16,412 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:16,457 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:16,498 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 00:12:16,528 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:20,016 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:20,064 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:20,115 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 00:12:20,152 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:22,418 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:22,464 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:22,501 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 00:12:22,530 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:24,998 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:25,042 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:25,083 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 00:12:25,115 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:27,871 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:27,930 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:27,977 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 00:12:28,013 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:30,820 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:30,864 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:30,900 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 00:12:30,927 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:38,245 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 00:12:38,294 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 00:12:38,333 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 00:12:38,362 WARN p.LoginPage [main] Button clicked
+2022-04-16 00:12:38,375 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74bdfa9853333c56f790f1d374e6054d
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 00:12:38,594 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74bdfa9853333c56f790f1d374e6054d
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:21:29,445 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:21:29,498 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:21:29,538 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:21:29,570 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:40:01,897 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:40:01,960 INFO p.LoginPage [main] Username samulJackson@gmail.com...
+2022-04-16 17:40:02,005 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:40:02,055 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:41:52,380 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:41:52,431 INFO p.LoginPage [main] Username samulJackson@gmail.com...
+2022-04-16 17:41:52,469 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:41:52,505 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:41:52,520 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:52,738 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:52,947 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:53,169 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:53,390 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:53,612 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:53,831 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:54,054 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:54,273 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:54,496 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:54,717 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:54,937 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:55,146 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:55,369 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:55,586 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:55,795 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:56,016 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:56,223 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:56,439 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:41:56,657 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50228}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc689f78f2061e58f99a2f21b08cd3ea
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:48:49,918 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:48:51,062 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:48:51,112 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:48:51,151 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:48:51,180 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:48:52,286 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:48:53,546 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:48:53,594 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:48:53,634 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:48:53,664 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:48:54,740 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:48:56,427 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:48:56,472 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:48:56,508 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:48:56,536 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:48:57,720 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:48:58,744 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:48:58,787 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:48:58,824 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:48:58,852 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:48:59,938 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:01,290 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:01,332 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:01,368 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:01,395 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:02,491 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:03,690 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:03,734 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:03,776 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:49:03,807 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:04,843 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:06,433 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:06,476 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:06,513 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:06,541 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:07,634 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:09,551 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:09,602 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:09,644 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:49:09,677 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:10,776 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:13,502 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:15,611 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:17,654 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:19,531 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:22,057 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:23,838 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:26,200 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:27,980 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:28,655 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:28,696 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:28,731 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:28,758 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:28,766 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a733a1d1a14c1f7ea5109e222a33be6c
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:28,980 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a733a1d1a14c1f7ea5109e222a33be6c
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:30,893 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:31,584 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:31,625 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:31,659 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:31,686 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:34,735 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:35,346 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:35,387 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:35,421 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:35,448 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:35,456 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ce9226241b94d7f746395e3ff78ac788
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:35,673 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ce9226241b94d7f746395e3ff78ac788
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:38,805 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:39,603 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:39,644 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:39,680 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:39,706 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:39,714 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a363507ddfa5ca9633b96cfcf4b89935
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:39,931 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a363507ddfa5ca9633b96cfcf4b89935
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:41,798 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:42,775 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:42,815 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:42,849 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:42,875 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:45,924 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:46,659 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:46,700 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:46,738 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:46,767 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:46,777 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 407d6cd08ee0c46dffdc381793515258
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:46,985 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 407d6cd08ee0c46dffdc381793515258
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:49,810 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:50,575 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:50,617 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:50,651 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:50,677 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:50,684 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59503}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4375f83f0e6d1674685ad39d24c037f0
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:50,892 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59503}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4375f83f0e6d1674685ad39d24c037f0
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:52,828 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:53,552 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:53,591 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:53,627 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:53,653 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:56,762 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:49:57,370 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:49:57,417 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:49:57,457 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:49:57,485 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:49:57,493 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 196ca54b498f14ed4f6ba4215f3185bf
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:49:57,710 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 196ca54b498f14ed4f6ba4215f3185bf
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:50:00,658 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:50:01,280 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:50:01,321 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:50:01,355 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:50:01,382 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:50:01,390 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49231}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f7404c20354b994b92ac32b58ee7e3e
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:50:01,606 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49231}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f7404c20354b994b92ac32b58ee7e3e
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:50:03,600 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:50:04,340 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:50:04,381 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:50:04,415 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:50:04,441 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:50:07,464 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:50:08,256 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:50:08,298 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:50:08,333 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:50:08,360 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:50:08,367 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49268}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e01b821e3c2033dca7a9ffa024da8dac
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:50:08,586 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49268}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e01b821e3c2033dca7a9ffa024da8dac
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:53:35,477 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:36,085 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:36,134 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:36,172 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:53:36,200 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:37,329 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:38,322 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:38,366 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:38,406 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:53:38,435 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:39,530 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:40,336 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:40,381 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:40,421 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:53:40,450 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:41,561 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:42,368 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:42,411 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:42,448 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:53:42,478 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:43,679 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:44,963 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:45,005 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:45,041 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:53:45,069 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:46,249 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:47,125 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:47,166 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:47,202 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:53:47,230 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:48,318 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:53:52,591 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:53:52,632 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:53:52,670 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:53:52,698 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:53:53,794 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:04,143 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:54:04,182 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:54:04,219 INFO p.LoginPage [main] Password te$t$tudent123
+2022-04-16 17:54:04,246 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:54:05,331 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:08,116 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:10,334 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:12,848 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:18,583 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:26,636 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:32,689 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:36,104 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:38,140 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:38,963 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:54:39,006 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:54:39,043 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:54:39,072 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:54:39,080 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 025ba60243b2ceed29cc0c89a9504e8f
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:54:39,291 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 025ba60243b2ceed29cc0c89a9504e8f
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:54:41,250 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:42,969 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:54:43,010 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:54:43,047 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:54:43,074 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:54:46,169 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:54:48,009 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:54:48,051 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:54:48,087 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:54:48,114 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:54:48,122 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58889}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60ba9e83c8fef1d17efb94d8d0ba2fc2
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:54:48,340 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58889}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60ba9e83c8fef1d17efb94d8d0ba2fc2
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:54:51,330 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:02,334 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:02,375 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:02,411 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:02,438 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:02,445 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 572768feec642c4285dadc85c1174065
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:02,666 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58918}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 572768feec642c4285dadc85c1174065
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:04,629 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:05,767 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:05,809 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:05,845 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:05,872 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:08,969 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:10,433 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:10,474 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:10,507 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:10,535 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:10,543 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58969}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7317f52d4c1632cf527e39751adc8a53
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:10,759 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58969}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7317f52d4c1632cf527e39751adc8a53
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:13,635 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:15,538 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:15,578 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:15,613 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:15,640 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:15,648 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58992}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: afa53f7608d990eef2b37ca00ef6f902
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:15,860 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58992}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: afa53f7608d990eef2b37ca00ef6f902
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:17,762 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:22,975 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:23,017 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:23,052 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:23,079 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:26,081 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:28,130 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:28,171 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:28,205 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:28,230 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:28,238 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 998675f27635ecf113a6b17fd676ed4e
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:28,448 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 998675f27635ecf113a6b17fd676ed4e
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:31,290 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:32,237 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:32,277 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:32,312 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:32,338 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:32,346 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59073}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3fd8054ccb3bca2b84e68f0efa248ca
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:32,559 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59073}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3fd8054ccb3bca2b84e68f0efa248ca
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:34,433 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:35,169 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:35,211 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:35,245 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:35,271 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:38,349 DEBUG l.Listeners [main] Started test null
+2022-04-16 17:55:39,240 INFO p.LoginPage [main] Logging to App Method
+2022-04-16 17:55:39,282 INFO p.LoginPage [main] Username samulJackson@gmail.com
+2022-04-16 17:55:39,316 INFO p.LoginPage [main] Password te$t$tudent
+2022-04-16 17:55:39,343 WARN p.LoginPage [main] Button clicked
+2022-04-16 17:55:39,350 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 82fb78bfa79299bf9458b6ea98bbf1d8
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}
+2022-04-16 17:55:39,564 FATAL p.MainPage [main] Exception happensno such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-plus-circle control create']"}
+  (Session info: headless chrome=100.0.4896.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-ON9MR60', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\ACEPHE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 82fb78bfa79299bf9458b6ea98bbf1d8
+*** Element info: {Using=xpath, value=//*[@class='fa fa-plus-circle control create']}

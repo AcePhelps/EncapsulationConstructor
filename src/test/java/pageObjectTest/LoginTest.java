@@ -18,15 +18,58 @@ public class LoginTest extends BaseTest{
     public void loginTest_correctCredentials_loggedToApp(){
       LoginPage loginPage =new LoginPage(driver);
       loginPage.open(url);
-      MainPage mainPage = loginPage.loginToApp("samulJackson@gmail.com","te$t$tudent");
+      MainPage mainPage = loginPage.loginToApp(username,password);
       Assert.assertTrue(mainPage.isOpen());
   }
   @Test
-    public void loginTest_IncorrectCredentials_errorRedFrame(){
+    public void loginTest_IncorrectCredentials_errorRedFrame() {
+    LoginPage loginPage = new LoginPage(driver);
+    loginPage.open(url);
+    loginPage.loginToApp(username, "te$t$tudent123");
+    Assert.assertTrue(loginPage.isError());
+  }
+    @Test
+    public void loginTest_correctCredentials_loggedToApp1(){
       LoginPage loginPage =new LoginPage(driver);
       loginPage.open(url);
-      loginPage.loginToApp("samulJackson@gmail.com","te$t$tudent123");
+      MainPage mainPage = loginPage.loginToApp(username,password);
+      Assert.assertTrue(mainPage.isOpen());
+    }
+    @Test
+    public void loginTest_IncorrectCredentials_errorRedFrame1() {
+      LoginPage loginPage = new LoginPage(driver);
+      loginPage.open(url);
+      loginPage.loginToApp(username, "te$t$tudent123");
       Assert.assertTrue(loginPage.isError());
+    }
+      @Test
+      public void loginTest_correctCredentials_loggedToApp2(){
+        LoginPage loginPage =new LoginPage(driver);
+        loginPage.open(url);
+        MainPage mainPage = loginPage.loginToApp(username,password);
+        Assert.assertTrue(mainPage.isOpen());
+      }
+      @Test
+      public void loginTest_IncorrectCredentials_errorRedFrame2() {
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.open(url);
+        loginPage.loginToApp(username, "te$t$tudent123");
+        Assert.assertTrue(loginPage.isError());
+      }
+        @Test
+        public void loginTest_correctCredentials_loggedToApp3(){
+          LoginPage loginPage =new LoginPage(driver);
+          loginPage.open(url);
+          MainPage mainPage = loginPage.loginToApp(username,password);
+          Assert.assertTrue(mainPage.isOpen());
+        }
+        @Test
+        public void loginTest_IncorrectCredentials_errorRedFrame3(){
+          LoginPage loginPage =new LoginPage(driver);
+          loginPage.open(url);
+          loginPage.loginToApp(username,"te$t$tudent123");
+          Assert.assertTrue(loginPage.isError());
 
-  }
+
+        }
 }
